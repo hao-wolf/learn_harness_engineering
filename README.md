@@ -1,10 +1,10 @@
 # learn_harness_engineering
 Articles, tutorials, notes on harness engineering
-- [ ]  Harness Engineering 是什么？
+- [x]  Harness Engineering 是什么？
 - [x]  Harness Engineering 与 Prompt Engineering、Context Engineering 有什么关系
-OpenAI 和 Anthropic 在 Harness Engineering 方面的实战
-Harness Engineering 的来源
-Harness Engineering 是不是噱头？它是软件工程领域的一次技术突破，还是 AI 圈的又一次概念炒作？
+- [ ] OpenAI 和 Anthropic 在 Harness Engineering 方面的实战
+- [ ] Harness Engineering 的来源
+- [ ] Harness Engineering 是不是噱头？它是软件工程领域的一次技术突破，还是 AI 圈的又一次概念炒作？
 
 🎥 相关视频：
    • 从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！  
